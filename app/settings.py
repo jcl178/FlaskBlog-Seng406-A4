@@ -53,7 +53,7 @@ class Settings:
     APP_NAME = "flaskBlog"
     APP_VERSION = "3.0.0dev"
     APP_ROOT_PATH = "."
-    APP_HOST = "10.0.2.10"
+    APP_HOST = "0.0.0.0"
     APP_PORT = 1283
     DEBUG_MODE = False
 
